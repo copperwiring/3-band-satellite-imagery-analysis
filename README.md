@@ -30,6 +30,7 @@ Requirements:
 - numpy==1.20.3
 - matplotlib==3.3.4
 - humanize==3.8
+- GDAL==3.0.2
 
 ### Base files
 Source file used in the code can be downloaded from the link below:
